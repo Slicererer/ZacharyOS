@@ -1,3 +1,3 @@
-# CMD
+# ZacharyOS
 
-Use Python To Open It
+Use The Installer To get This!!!!!!
